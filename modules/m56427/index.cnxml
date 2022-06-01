@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Tubular Reabsorption</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56427</md:content-id>
+  <md:title>Tubular Reabsorption</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>List specific transport mechanisms occurring in different parts of the nephron, including active transport, osmosis, facilitated diffusion, and passive electrochemical gradients</item>
+<item>List the different membrane proteins of the nephron, including channels, transporters, and ATPase pumps</item>
+<item>Compare and contrast passive and active tubular reabsorption</item>
+<item>Explain why the differential permeability or impermeability of specific sections of the nephron tubules is necessary for urine formation</item>
+<item>Describe how and where water, organic compounds, and ions are reabsorbed in the nephron</item>
+<item>Explain the role of the loop of Henle, the vasa recta, and the countercurrent multiplication mechanisms in the concentration of urine</item>
+<item>List the locations in the nephron where tubular secretion occurs</item>
+</list></md:abstract>
+  <md:uuid>6998956b-f10b-4fd6-9c27-cb47136ff3f9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2785110">With up to 180 liters per day passing through the nephrons of the kidney, it is quite obvious that most of that fluid and its contents must be reabsorbed. That recovery occurs in the PCT, loop of Henle, DCT, and the collecting ducts <link target-id="fig-ch26_06_01" document=""/>. Various portions of the nephron differ in their capacity to reabsorb water and specific solutes. While much of the reabsorption and secretion occur passively based on concentration gradients, the amount of water that is reabsorbed or lost is tightly regulated. This control is exerted directly by the hormones ADH and aldosterone, and indirectly by renin. Most water is recovered in the PCT, loop of Henle, and DCT. About 10 percent (about 18 L) reaches the collecting ducts. The collecting ducts, under the influence of ADH, can recover almost all of the water passing through them, in cases of dehydration, or almost none of the water, in cases of over-hydration.</para><figure id="fig-ch26_06_01"><title>Locations of Secretion and Reabsorption in the Nephron </title><media id="fs-id2639454" alt="This diagram shows the different ions and chemicals that are secreted and reabsorbed along the nephron. Arrows show the direction of the movement of the substance.">
+<image mime-type="image/jpg" src="../../media/2618_Nephron_Secretion_Reabsorption.jpg" width="280"/>
+</media>
+</figure></content>
+<glossary>
+<definition id="fs-id1165447849205"><term>countercurrent multiplier system</term> <meaning id="fs-id1165447849209">involves the descending and ascending loops of Henle directing forming urine in opposing directions to create a concentration gradient when combined with variable permeability and sodium pumping</meaning></definition>
+<definition id="fs-id1165447837707"><term>glycosuria</term> <meaning id="fs-id1165447837711">presence of glucose in the urine; caused by high blood glucose levels that exceed the ability of the kidneys to reabsorb the glucose; usually the result of untreated or poorly controlled diabetes mellitus</meaning></definition>
+<definition id="fs-id1165447772393"><term>intercalated cell</term> <meaning id="fs-id1165447772397">specialized cell of the collecting ducts that secrete or absorb acid or bicarbonate; important in acid–base balance</meaning></definition>
+<definition id="fs-id1165447860978"><term>leaky tight junctions</term> <meaning id="fs-id1165447860982">tight junctions in which the sealing strands of proteins between the membranes of adjacent cells are fewer in number and incomplete; allows limited intercellular movement of solvent and solutes</meaning></definition>
+<definition id="fs-id1165447826309"><term>principal cell</term> <meaning id="fs-id1165447826313">found in collecting ducts and possess channels for the recovery or loss of sodium and potassium; under the control of aldosterone; also have aquaporin channels under ADH control to regulate recovery of water</meaning></definition>
+</glossary>
+</document>

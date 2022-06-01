@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cardiac Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56224</md:content-id>
+  <md:title>Cardiac Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the relationship between blood pressure and blood flow</item>
+<item>Summarize the events of the cardiac cycle</item>
+<item>Compare atrial and ventricular systole and diastole</item>
+<item>Relate heart sounds detected by auscultation to action of heart’s valves</item>
+</list></md:abstract>
+  <md:uuid>59b53ecf-d21a-4278-bf3d-f911f8bf251c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1295996">The period of time that begins with contraction of the atria and ends with ventricular relaxation is known as the <term>cardiac cycle</term> (<link target-id="fig-ch20_03_01" document=""/>). The period of contraction that the heart undergoes while it pumps blood into circulation is called <term>systole</term>. The period of relaxation that occurs as the chambers fill with blood is called <term>diastole</term>. Both the atria and ventricles undergo systole and diastole, and it is essential that these components be carefully regulated and coordinated to ensure blood is pumped efficiently to the body.</para>
+<figure id="fig-ch20_03_01"><title>Overview of the Cardiac Cycle </title><media id="fs-id2182821" alt="This pie chart shows the different phases of the cardiac cycle and details the atrial and ventricular stages.">
+<image mime-type="image/jpg" src="../../media/2027_Phases_of_the_Cardiac_Cycle.jpg" width="420"/>
+</media>
+<caption>The cardiac cycle begins with atrial systole and progresses to ventricular systole, atrial diastole, and ventricular diastole, when the cycle begins again. Correlations to the ECG are highlighted.</caption></figure><section id="fs-id1545694">
+<title>Pressures and Flow</title>
+<para id="fs-id2870488">Fluids, whether gases or liquids, are materials that flow according to pressure gradients—that is, they move from regions that are higher in pressure to regions that are lower in pressure. Accordingly, when the heart chambers are relaxed (diastole), blood will flow into the atria from the veins, which are higher in pressure. As blood flows into the atria, the pressure will rise, so the blood will initially move passively from the atria into the ventricles. When the action potential triggers the muscles in the atria to contract (atrial systole), the pressure within the atria rises further, pumping blood into the ventricles. During ventricular systole, pressure rises in the ventricles, pumping blood into the pulmonary trunk from the right ventricle and into the aorta from the left ventricle. Again, as you consider this flow and relate it to the conduction pathway, the elegance of the system should become apparent.</para>
+</section>
+<section id="fs-id3086394">
+<title>Heart Sounds</title>
+<para id="fs-id2462183">One of the simplest, yet effective, diagnostic techniques applied to assess the state of a patient’s heart is auscultation using a stethoscope.</para>
+<para id="fs-id2624692">In a normal, healthy heart, there are only two audible <term>heart sounds</term>: S<sub>1</sub> and S<sub>2</sub>. S<sub>1</sub> is the sound created by the closing of the atrioventricular valves during ventricular contraction and is normally described as a “lub,” or first heart sound. The second heart sound, S<sub>2</sub>, is the sound of the closing of the semilunar valves during ventricular diastole and is described as a “dub” (<link target-id="fig-ch20_03_03" document=""/>). In both cases, as the valves close, the openings within the atrioventricular septum guarded by the valves will become reduced, and blood flow through the opening will become more turbulent until the valves are fully closed. There is a third heart sound, S<sub>3</sub>, but it is rarely heard in healthy individuals. It may be the sound of blood flowing into the atria, or blood sloshing back and forth in the ventricle, or even tensing of the chordae tendineae. S<sub>3</sub> may be heard in youth, some athletes, and pregnant women. If the sound is heard later in life, it may indicate congestive heart failure, warranting further tests. Some cardiologists refer to the collective S<sub>1</sub>, S<sub>2</sub>, and S<sub>3</sub> sounds as the “Kentucky gallop,” because they mimic those produced by a galloping horse. The fourth heart sound, S<sub>4</sub>, results from the contraction of the atria pushing blood into a stiff or hypertrophic ventricle, indicating failure of the left ventricle. S<sub>4</sub> occurs prior to S<sub>1</sub> and the collective sounds S<sub>4</sub>, S<sub>1</sub>, and S<sub>2</sub> are referred to by some cardiologists as the “Tennessee gallop,” because of their similarity to the sound produced by a galloping horse with a different gait. A few individuals may have both S<sub>3 </sub>and S<sub>4</sub>, and this combined sound is referred to as S<sub>7</sub>.</para>
+<figure id="fig-ch20_03_03"><title>Heart Sounds and the Cardiac Cycle </title><media id="fs-id2169721" alt="This image shows a graph of the blood pressure with the different stages labeled. Under the graph, a line shows the different sounds made by the beating heart.">
+<image mime-type="image/jpg" src="../../media/2029_Cardiac_Cycle_vs_Heart_Sounds.jpg" width="480"/>
+</media>
+<caption>In this illustration, the x-axis reflects time with a recording of the heart sounds. The y-axis represents pressure.</caption></figure><para id="fs-id1305555">The term <term>murmur</term> is used to describe an unusual sound coming from the heart that is caused by the turbulent flow of blood. Murmurs are graded on a scale of 1 to 6, with 1 being the most common, the most difficult sound to detect, and the least serious. The most severe is a 6. Phonocardiograms or auscultograms can be used to record both normal and abnormal sounds using specialized electronic stethoscopes.</para>
+<para id="fs-id2008912">During auscultation, it is common practice for the clinician to ask the patient to breathe deeply. This procedure not only allows for listening to airflow, but it may also amplify heart murmurs. Inhalation increases blood flow into the right side of the heart and may increase the amplitude of right-sided heart murmurs. Expiration partially restricts blood flow into the left side of the heart and may amplify left-sided heart murmurs. <link target-id="fig-ch20_03_04" document=""/> indicates proper placement of the bell of the stethoscope to facilitate auscultation.</para>
+<figure id="fig-ch20_03_04"><title>Stethoscope Placement for Auscultation </title><media id="fs-id2121424" alt="This image shows the points on the human chest where the stethoscope can be placed to hear the heart beat.">
+<image mime-type="image/jpg" src="../../media/2030_Stethoscope_Placement.jpg" width="480"/>
+</media>
+<caption>Proper placement of the bell of the stethoscope facilitates auscultation. At each of the four locations on the chest, a different valve can be heard.</caption></figure></section>
+</content>
+<glossary>
+<definition id="fs-id3339610"><term>cardiac cycle</term> <meaning id="fs-id2477774">period of time between the onset of atrial contraction (atrial systole) and ventricular relaxation (ventricular diastole)</meaning></definition>
+<definition id="fs-id1539307"><term>diastole</term> <meaning id="fs-id2159770">period of time when the heart muscle is relaxed and the chambers fill with blood</meaning></definition>
+<definition id="fs-id2066721"><term>end diastolic volume (EDV)</term> <meaning id="fs-id2875138"> (also, preload) the amount of blood in the ventricles at the end of atrial systole just prior to ventricular contraction</meaning></definition>
+<definition id="fs-id2117194"><term>end systolic volume (ESV)</term> <meaning id="fs-id2067011"> amount of blood remaining in each ventricle following systole</meaning></definition>
+<definition id="fs-id2458514"><term>heart sounds</term> <meaning id="fs-id2190918">sounds heard via auscultation with a stethoscope of the closing of the atrioventricular valves (“lub”) and semilunar valves (“dub”)</meaning></definition>
+<definition id="fs-id2801242"><term>isovolumic contraction</term> <meaning id="fs-id1933789"> (also, isovolumetric contraction) initial phase of ventricular contraction in which tension and pressure in the ventricle increase, but no blood is pumped or ejected from the heart</meaning></definition>
+<definition id="fs-id1449656"><term>isovolumic ventricular relaxation phase</term> <meaning id="fs-id1518947">initial phase of the ventricular diastole when pressure in the ventricles drops below pressure in the two major arteries, the pulmonary trunk, and the aorta, and blood attempts to flow back into the ventricles, producing the dicrotic notch of the ECG and closing the two semilunar valves</meaning></definition>
+<definition id="fs-id2164256"><term>murmur</term> <meaning id="fs-id2320659">unusual heart sound detected by auscultation; typically related to septal or valve defects</meaning></definition>
+<definition id="fs-id1617018"><term>preload</term> <meaning id="fs-id1754228">(also, end diastolic volume) amount of blood in the ventricles at the end of atrial systole just prior to ventricular contraction</meaning></definition>
+<definition id="fs-id1438266"><term>systole</term> <meaning id="fs-id1943981">period of time when the heart muscle is contracting</meaning></definition>
+<definition id="fs-id1903898"><term>ventricular ejection phase</term> <meaning id="fs-id918947">second phase of ventricular systole during which blood is pumped from the ventricle</meaning></definition>
+</glossary>
+</document>

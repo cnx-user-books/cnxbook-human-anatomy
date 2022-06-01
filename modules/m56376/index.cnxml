@@ -1,0 +1,71 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Breathing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56376</md:content-id>
+  <md:title>Breathing</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the mechanisms that drive breathing</item>
+<item>Discuss how pressure, volume, and resistance are related</item>
+<item>List the steps involved in pulmonary ventilation</item>
+<item>Discuss the physical factors related to breathing</item>
+<item>Discuss the meaning of respiratory volume and capacities</item>
+<item>Define respiratory rate</item>
+<item>Outline the mechanisms behind the control of breathing</item>
+<item>Describe the respiratory centers of the medulla oblongata</item>
+<item>Describe the respiratory centers of the pons</item>
+<item>Discuss factors that can influence the respiratory rate</item>
+</list></md:abstract>
+  <md:uuid>58ba445b-f7a7-420c-bba3-7d282ce71a6d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id2057814">
+<title>Mechanisms of Breathing</title>
+<para id="fs-id1617847">The alveolar and intrapleural pressures are dependent on certain physical features of the lung. However, the ability to breathe—to have air enter the lungs during inspiration and air leave the lungs during expiration—is dependent on the air pressure of the atmosphere and the air pressure within the lungs.</para>
+</section>
+<section id="fs-id2079652">
+<title>Pulmonary Ventilation</title>
+<para id="fs-id2241368">The difference in pressures drives pulmonary ventilation because air flows down a pressure gradient, that is, air flows from an area of higher pressure to an area of lower pressure. Air flows into the lungs largely due to a difference in pressure; atmospheric pressure is greater than intra-alveolar pressure, and intra-alveolar pressure is greater than intrapleural pressure. Air flows out of the lungs during expiration based on the same principle; pressure within the lungs becomes greater than the atmospheric pressure.</para>
+<para id="fs-id1882180">Pulmonary ventilation comprises two major steps: inspiration and expiration. <term>Inspiration</term> is the process that causes air to enter the lungs, and <term>expiration</term> is the process that causes air to leave the lungs (<link target-id="fig-ch23_03_03" document=""/>). A <term>respiratory cycle</term> is one sequence of inspiration and expiration. In general, two muscle groups are used during normal inspiration: the diaphragm and the external intercostal muscles. Additional muscles can be used if a bigger breath is required. When the diaphragm contracts, it moves inferiorly toward the abdominal cavity, creating a larger thoracic cavity and more space for the lungs. Contraction of the external intercostal muscles moves the ribs upward and outward, causing the rib cage to expand, which increases the volume of the thoracic cavity. Due to the adhesive force of the pleural fluid, the expansion of the thoracic cavity forces the lungs to stretch and expand as well. This increase in volume leads to a decrease in intra-alveolar pressure, creating a pressure lower than atmospheric pressure. As a result, a pressure gradient is created that drives air into the lungs.</para>
+<figure id="fig-ch23_03_03"><title>Inspiration and Expiration </title><media id="fs-id1949886" alt="The left panel of this image shows a person inhaling air and the location of the chest muscles. The right panel shows the person exhaling air and the contraction of the thoracic cavity.">
+<image mime-type="image/jpg" src="../../media/2316_Inspiration_and_Expiration.jpg" width="450"/>
+</media>
+<caption>Inspiration and expiration occur due to the expansion and contraction of the thoracic cavity, respectively.</caption></figure><para id="fs-id2453488">The process of normal expiration is passive, meaning that energy is not required to push air out of the lungs. Instead, the elasticity of the lung tissue causes the lung to recoil, as the diaphragm and intercostal muscles relax following inspiration. In turn, the thoracic cavity and lungs decrease in volume, causing an increase in interpulmonary pressure. The interpulmonary pressure rises above atmospheric pressure, creating a pressure gradient that causes air to leave the lungs.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1645755"><term>alveolar dead space</term> <meaning id="fs-id2370713"> air space within alveoli that are unable to participate in gas exchange</meaning></definition>
+<definition id="fs-id1546855"><term>anatomical dead space</term> <meaning id="fs-id2442013"> air space present in the airway that never reaches the alveoli and therefore never participates in gas exchange</meaning></definition>
+<definition id="fs-id2583889"><term>apneustic center</term> <meaning id="fs-id2000156"> network of neurons within the pons that stimulate the neurons in the dorsal respiratory group; controls the depth of inspiration</meaning></definition>
+<definition id="fs-id2485455"><term>atmospheric pressure</term> <meaning id="fs-id2310092"> amount of force that is exerted by gases in the air surrounding any given surface</meaning></definition>
+<definition id="fs-id2493350"><term>Boyle’s law</term> <meaning id="fs-id2803755"> relationship between volume and pressure as described by the formula: <emphasis effect="italics">P</emphasis><sub>1</sub><emphasis effect="italics">V</emphasis><sub>1</sub> = <emphasis effect="italics">P</emphasis><sub>2</sub><emphasis effect="italics">V</emphasis><sub>2</sub></meaning></definition>
+<definition id="fs-id1541250"><term>central chemoreceptor</term> <meaning id="fs-id2024530"> one of the specialized receptors that are located in the brain that sense changes in hydrogen ion, oxygen, or carbon dioxide concentrations in the brain</meaning></definition>
+<definition id="fs-id2532943"><term>dorsal respiratory group (DRG)</term> <meaning id="fs-id1982771"> region of the medulla oblongata that stimulates the contraction of the diaphragm and intercostal muscles to induce inspiration</meaning></definition>
+<definition id="fs-id1521890"><term>expiration</term> <meaning id="fs-id1692320">(also, exhalation) process that causes the air to leave the lungs</meaning></definition>
+<definition id="fs-id1381487"><term>expiratory reserve volume (ERV)</term> <meaning id="fs-id2363708"> amount of air that can be forcefully exhaled after a normal tidal exhalation</meaning></definition>
+<definition id="fs-id2570030"><term>forced breathing</term> <meaning id="fs-id2601515"> (also, hyperpnea) mode of breathing that occurs during exercise or by active thought that requires muscle contraction for both inspiration and expiration</meaning></definition>
+<definition id="fs-id2011096"><term>functional residual capacity (FRC)</term> <meaning id="fs-id2277344"> sum of ERV and RV, which is the amount of air that remains in the lungs after a tidal expiration</meaning></definition>
+<definition id="fs-id2396057"><term>inspiration</term> <meaning id="fs-id1342388">(also, inhalation) process that causes air to enter the lungs</meaning></definition>
+<definition id="fs-id2511836"><term>inspiratory capacity (IC)</term> <meaning id="fs-id2585819"> sum of the TV and IRV, which is the amount of air that can maximally be inhaled past a tidal expiration</meaning></definition>
+<definition id="fs-id2369829"><term>inspiratory reserve volume (IRV)</term> <meaning id="fs-id2026218"> amount of air that enters the lungs due to deep inhalation past the tidal volume</meaning></definition>
+<definition id="fs-id2696592"><term>intra-alveolar pressure</term> <meaning id="fs-id2455127"> (intrapulmonary pressure) pressure of the air within the alveoli</meaning></definition>
+<definition id="fs-id2585624"><term>intrapleural pressure</term> <meaning id="fs-id1890777"> pressure of the air within the pleural cavity</meaning></definition>
+<definition id="fs-id2399844"><term>peripheral chemoreceptor</term> <meaning id="fs-id2506822"> one of the specialized receptors located in the aortic arch and carotid arteries that sense changes in pH, carbon dioxide, or oxygen blood levels</meaning></definition>
+<definition id="fs-id1640297"><term>pneumotaxic center</term> <meaning id="fs-id2761157"> network of neurons within the pons that inhibit the activity of the neurons in the dorsal respiratory group; controls rate of breathing</meaning></definition>
+<definition id="fs-id1583279"><term>pulmonary ventilation</term> <meaning id="fs-id2052239"> exchange of gases between the lungs and the atmosphere; breathing</meaning></definition>
+<definition id="fs-id1432174"><term>quiet breathing</term> <meaning id="fs-id2603306"> (also, eupnea) mode of breathing that occurs at rest and does not require the cognitive thought of the individual</meaning></definition>
+<definition id="fs-id2624663"><term>residual volume (RV)</term> <meaning id="fs-id2365280"> amount of air that remains in the lungs after maximum exhalation</meaning></definition>
+<definition id="fs-id1531740"><term>respiratory cycle</term> <meaning id="fs-id2572281"> one sequence of inspiration and expiration</meaning></definition>
+<definition id="fs-id1881065"><term>respiratory rate</term> <meaning id="fs-id2597062"> total number of breaths taken each minute</meaning></definition>
+<definition id="fs-id2254561"><term>respiratory volume</term> <meaning id="fs-id1365230"> varying amounts of air within the lung at a given time</meaning></definition>
+<definition id="fs-id1968547"><term>thoracic wall compliance</term> <meaning id="fs-id2573865"> ability of the thoracic wall to stretch while under pressure</meaning></definition>
+<definition id="fs-id2176674"><term>tidal volume (TV)</term> <meaning id="fs-id2016132"> amount of air that normally enters the lungs during quiet breathing</meaning></definition>
+<definition id="fs-id1909030"><term>total dead space</term> <meaning id="fs-id2584422"> sum of the anatomical dead space and alveolar dead space</meaning></definition>
+<definition id="fs-id2294303"><term>total lung capacity (TLC)</term> <meaning id="fs-id1434135"> total amount of air that can be held in the lungs; sum of TV, ERV, IRV, and RV</meaning></definition>
+<definition id="fs-id2076518"><term>transpulmonary pressure</term> <meaning id="fs-id2927791"> pressure difference between the intrapleural and intra-alveolar pressures</meaning></definition>
+<definition id="fs-id2725010"><term>ventral respiratory group (VRG)</term> <meaning id="fs-id1546205"> region of the medulla oblongata that stimulates the contraction of the accessory muscles involved in respiration to induce forced inspiration and expiration</meaning></definition>
+<definition id="fs-id1891468"><term>vital capacity (VC)</term> <meaning id="fs-id2105558"> sum of TV, ERV, and IRV, which is all the volumes that participate in gas exchange</meaning></definition>
+</glossary>
+</document>

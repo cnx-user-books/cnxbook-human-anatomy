@@ -1,0 +1,597 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11832</md:content-id>
+  <md:title>Human Anatomy</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>be859764-a7a5-4c03-8415-fcb06e44a4b7</md:uuid>
+<md:slug>human-anatomy</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Cell</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56099"/>
+        
+      
+    
+    
+      <col:module document="m56102"/>
+        
+      
+    
+    
+      <col:module document="m56103"/>
+        
+      
+    
+    
+      <col:module document="m56109"/>
+        
+      
+    
+    
+      <col:module document="m56105"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Epithelial Tissue</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56110"/>
+        
+      
+    
+    
+      <col:module document="m56118"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Skin</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56111"/>
+        
+      
+    
+    
+      <col:module document="m56121"/>
+        
+      
+    
+    
+      <col:module document="m56122"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Cartilage and Bone</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56127"/>
+        
+      
+    
+    
+      <col:module document="m56468"/>
+        
+      
+    
+    
+      <col:module document="m56150"/>
+        
+      
+    
+    
+      <col:module document="m56136"/>
+        
+      
+    
+    
+      <col:module document="m56135"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Joints</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56148"/>
+        
+      
+    
+    
+      <col:module document="m56143"/>
+        
+      
+    
+    
+      <col:module document="m56145"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56154"/>
+        
+      
+    
+    
+      <col:module document="m56157"/>
+        
+      
+    
+    
+      <col:module document="m56159"/>
+        
+      
+    
+    
+      <col:module document="m56188"/>
+        
+      
+    
+    
+      <col:module document="m56193"/>
+        
+      
+    
+    
+      <col:module document="m56161"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Visual and Auditory Systems</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56199"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Muscle</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56196"/>
+        
+      
+    
+    
+      <col:module document="m56201"/>
+        
+      
+    
+    
+      <col:module document="m56183"/>
+        
+      
+    
+    
+      <col:module document="m56171"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Heart</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56219"/>
+        
+      
+    
+    
+      <col:module document="m56224"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Blood Vessels</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56228"/>
+        
+      
+    
+    
+      <col:module document="m56232"/>
+        
+      
+    
+    
+      <col:module document="m56234"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Lymphatic System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56243"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Endocrine System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56245"/>
+        
+      
+    
+    
+      <col:module document="m56338"/>
+        
+      
+    
+    
+      <col:module document="m56336"/>
+        
+      
+    
+    
+      <col:module document="m56348"/>
+        
+      
+    
+    
+      <col:module document="m56300"/>
+        
+      
+    
+    
+      <col:module document="m56293"/>
+        
+      
+    
+    
+      <col:module document="m56330"/>
+        
+      
+    
+    
+      <col:module document="m56308"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Respiratory System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56358"/>
+        
+      
+    
+    
+      <col:module document="m56365"/>
+        
+      
+    
+    
+      <col:module document="m56376"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Digestive System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56381"/>
+        
+      
+    
+    
+      <col:module document="m56388"/>
+        
+      
+    
+    
+      <col:module document="m56390"/>
+        
+      
+    
+    
+      <col:module document="m56397"/>
+        
+      
+    
+    
+      <col:module document="m56400"/>
+        
+      
+    
+    
+      <col:module document="m56403"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Urinary System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56430"/>
+        
+      
+    
+    
+      <col:module document="m56427"/>
+        
+      
+    
+    
+      <col:module document="m56412"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Reproductive Systems</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56425"/>
+        
+      
+    
+    
+      <col:module document="m56432"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Pregnancy</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56433"/>
+        
+      
+    
+    
+      <col:module document="m56439"/>
+        
+      
+    
+    
+      <col:module document="m56446"/>
+        
+      
+    
+    
+      <col:module document="m56447"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Laboratory Supplement</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m56454"/>
+        
+      
+    
+    
+      <col:module document="m56458"/>
+        
+      
+    
+    
+      <col:module document="m56462"/>
+        
+      
+    
+    
+      <col:module document="m56461"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
